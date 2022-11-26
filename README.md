@@ -1,10 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # look-and-feel-schets-je-ontwikkeling
 
-![The origin](https://user-images.githubusercontent.com/43402897/203855659-0e802e4f-d2a5-452b-8511-098278fc2841.png)
 
+![The origin (1)](https://user-images.githubusercontent.com/43402897/204094479-05f25823-8055-489b-81d1-e1be7da9c16e.png)
 
 
 ## Licentie
